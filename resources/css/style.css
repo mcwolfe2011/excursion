@@ -1,0 +1,21 @@
+html {
+    background-color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
+
+.container {
+    width: 85%;
+    margin: 0 auto;
+}
+
+h1, p, a {
+    text-align: center;
+}
+
+video, img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 10px;
+}
